@@ -1,4 +1,4 @@
-## Aplicación de línea de comandos
+## Aplicación de línea de comando
 
 Este es un ejercicio básico del curso NodeJS para administrar tareas.
 
